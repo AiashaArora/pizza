@@ -1,0 +1,17 @@
+#submit{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    color: darkblue;
+}
+#sort_button{
+    display:none;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    color: hotpink;
+}
+input{
+    margin: 10px;
+}
+body{
+    background-color:lightblue;
+}
